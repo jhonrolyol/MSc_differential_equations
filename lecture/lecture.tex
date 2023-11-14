@@ -1,0 +1,75 @@
+%! Author = PC
+%! Date = 11/11/2023
+
+% Preamble
+\documentclass[aspectratio=169]{beamer}
+    % Import packages
+    \usepackage[utf8]{inputenc}
+    \usepackage{multimedia}
+    \usepackage{hyperref}
+    \usepackage{xcolor}
+    \usepackage{graphicx}
+    \usepackage{lipsum}
+    \usepackage[spanish]{babel}
+    % Beamer theme customization
+    \usetheme{metropolis}
+    \setbeamertemplate{frame numbering}[fraction]
+    \definecolor{CambridgeRed}{RGB}{24,111,101} % Adjust color to match Cambridge style 163,21,45
+    \setbeamercolor{progress bar}{fg=CambridgeRed,bg=white}
+    \setbeamercolor{section in toc}{fg=black} % Adjust section color
+    \setbeamercolor{alerted text}{fg=CambridgeRed} % Adjust alert text color
+    \setbeamercolor{block title}{bg=CambridgeRed,fg=white} % Adjust block title colors
+    % Table of contents customization
+    \setbeamertemplate{section in toc}[sections numbered]
+    \setbeamertemplate{subsection in toc}[subsections numbered]
+    \setbeamercolor{section in toc}{fg=CambridgeRed}
+    \setbeamercolor{subsection in toc}{fg=CambridgeRed}
+    \setbeamertemplate{section in toc shaded}[default][50]
+    \setbeamertemplate{subsection in toc shaded}[default][50]
+    % Title page
+    \title{Title}
+    \subtitle{MSc Econometrics}
+    \author[JR]{Jhon Roly Ordoñez Leon}
+    \institute{
+        National University of San Cristóbal de Huamanga\\
+        Faculty of Economic, Administrative and Accounting Sciences\\
+        Professional School of Economics
+    }
+    \date{\today}
+% Body
+\begin{document}
+	% Title
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	% Outline
+	\begin{frame}{Outline}
+		\tableofcontents
+	\end{frame}
+
+	% Section 1
+	\section{}
+		\begin{frame}{}
+			\lipsum[1]
+		\end{frame}
+		% Subsection 1.1.
+		\subsection{dfsdsds}
+	% Section 2
+	\section{}
+        \begin{frame}{}
+            \lipsum[2]
+        \end{frame}
+
+    % References and bibliography
+    \begin{frame}[t,allowframebreaks]{Bibliography}
+		 \bibliography{main.bib}
+		 	\bibliographystyle{apalike}
+		 	%\bibliographystyle{alpha}
+                \nocite{wooldridge-2016}
+		 		%\nocite{}
+	\end{frame}
+	% Title
+	\begin{frame}[t]
+		\maketitle
+	\end{frame}
+\end{document}

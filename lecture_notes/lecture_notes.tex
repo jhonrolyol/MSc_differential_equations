@@ -1,0 +1,96 @@
+%! Author = PC
+%! Date = 9/11/2023
+
+% Preamble
+\documentclass[11pt]{article}
+	% Necessary packages
+	\usepackage[utf8]{inputenc}
+	\usepackage[english]{babel}
+	\usepackage{graphicx}
+	\usepackage{fancyhdr}
+	\usepackage{xcolor}
+	\usepackage{lipsum}
+	\usepackage{amsmath}
+	\usepackage{float}
+	\usepackage{natbib}
+	\usepackage{url}
+	\usepackage{hyperref}
+	\usepackage{mathptmx}
+	\usepackage{amsmath,amssymb,amsfonts}
+	% Page setup
+	\usepackage{geometry}
+	\geometry{
+		a4paper,
+		left=2cm,
+		right=2cm,
+		top=2.5cm,
+		bottom=2.5cm,
+	}
+	% Header and footer
+	\pagestyle{fancy}
+	\fancyhf{}
+	\lhead{MSc Econometrics}
+	\chead{Lecture Notes xyz}
+	\rhead{Jhon R. Ordoñez}
+	\rfoot{Page \thepage}
+% Body
+\begin{document}
+	% Title page
+	\begin{titlepage}
+		\vspace*{5cm}
+		% Title
+		{\Large
+			\begin{center}
+				{\Huge \textbf{OPTIMAL CONTROL THEORY}}
+				\vspace{0.5cm}\\
+				% Name
+				Jhon Roly Ordoñez Leon\\
+				(\textcolor{blue}{f1352289@pucp.edu.pe})
+				\vspace{0.5cm}\\
+				% Topic
+				\textbf{First year master in economics}
+			\end{center}
+		}
+		% Date
+		\date{\today}
+		% Abstract
+		\begin{abstract}
+			\lipsum[1].\\
+			\textbf{Key words:} \hspace{1mm} \textit{word 1, word2.}
+		\end{abstract}
+		% Table of contents
+		\textcolor{red}{\tableofcontents}
+	\end{titlepage}
+
+	% Section 1
+	\section{Introduction}
+		\lipsum[1]
+
+
+
+
+	% Section 2
+	\section{}
+		\lipsum[1]
+
+
+
+	% References and bibliography
+	\bibliography{main.bib}
+		\bibliographystyle{apalike2}
+
+		\nocite{wooldridge-2016}
+
+    %\bibliography{main}
+    %\bibliographystyle{plain}
+\end{document}
+
+
+
+
+
+
+
+
+
+

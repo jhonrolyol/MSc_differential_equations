@@ -1,6 +1,12 @@
 
 # Shorcuts: 
     # compile: shift + enter
+    
+# Load GraphRecipes for network graph
+#using Pkg
+#Pkg.add("GraphPlot")
+#Pkg.add("LightGraphs")
+
 
 using Plots
 # Generate data

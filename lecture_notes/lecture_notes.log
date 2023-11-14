@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2023.9.17)  14 NOV 2023 07:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2023.9.17)  14 NOV 2023 08:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,6 +560,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [2]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
+5.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -573,8 +578,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.78 	\section
-              {First-Order Ordinary Differential Equations (ODEs)} [1]
+l.108 		\subsection
+                   {Separable Equations} [1]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -588,8 +593,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.93 		\subsection
-                  {Modeling with First-Order ODEs} [2]
+l.120 		\subsection
+                   {Modeling with First-Order ODEs} [2]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -639,20 +644,24 @@ Package rerunfilecheck Info: File `lecture_notes.out' has not changed.
 (rerunfilecheck)             Checksum: 3CE6E544B24A765FDC2C96B2E1FDFC53;6856.
  ) 
 Here is how much of TeX's memory you used:
- 12569 strings out of 475284
- 201665 string characters out of 2775521
+ 12610 strings out of 475284
+ 202156 string characters out of 2775521
  654998 words of memory out of 3000000
- 33815 multiletter control sequences out of 15000+600000
- 495113 words of font info for 73 fonts, out of 8000000 for 9000
+ 33836 multiletter control sequences out of 15000+600000
+ 500479 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,77p,398b,639s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Us
-ers/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users
-/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/PC
-/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on lecture_notes.pdf (9 pages, 86858 bytes).
+ers/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
+b8a.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a
+.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.p
+fb>
+Output written on lecture_notes.pdf (9 pages, 115151 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
+ 248 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
  249 words of extra memory for PDF output out of 10000 (max. 10000000)
 

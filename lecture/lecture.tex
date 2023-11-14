@@ -47,19 +47,51 @@
 	% Section 1
 	\section{Introduction to Differential Equations}
 		\begin{frame}{Definition of a Differential Equation}
-			\lipsum[1]
+			A differential equation is a mathematical equation
+			that relates one or more functions and their derivatives.
+			In other words, it describes the relationship between a function
+			and its rate of change. The general form of a differential equation is:
+				\begin{equation}
+					F(x,y,y',y'', \dots, y^{(n)})
+				\end{equation}
+			Here:
+				\begin{itemize}
+					\item $x$ is the independent variable.
+					\item $y$ is the dependent variable.
+					\item $y'$ is the first derivative of $y$ with respect to $x$.
+					\item $y''$ is the second derivative, and so on, up to the $n$-th derivative.
+				\end{itemize}
 		\end{frame}
 		\begin{frame}{Types of Differential Equations}
-			\lipsum[1]
+			\begin{itemize}
+				\item \textbf{Ordinary Differential Equations (ODEs):} Ordinary Differential Equations (ODEs) can be
+					classified into various types based on their properties, structure, and characteristics.
+				\item \textbf{Partial Differential Equations (PDEs):} Partial Differential Equations (PDEs) are a type of differential equation that involves multiple
+					independent variables and their partial derivatives with respect to those variables.
+			\end{itemize}
 		\end{frame}
-		
 	% Section 2
 	\section{First-Order Ordinary Differential Equations (ODEs)}
         \begin{frame}{Separable Equations}
-            \lipsum[2]
+            A separable ordinary differential equation (ODE) is a specific type 
+            of differential equation where the variables and their derivatives 
+            can be "separated" on each side of the equation.
+            This type of equation can be expressed as:
+            	\begin{equation}
+            		\dfrac{dy}{dx} = g(x)h(y)
+            	\end{equation}
+            Here, $y$ is the unknown function of $x$, $\frac{dy}{dx}$ is its derivate with respect to $x$, 
+            and $g(x)$ and $h(y)$ are known functions.
         \end{frame}
 		\begin{frame}{Linear Equations}
-			\lipsum[2]
+			A linear ordinary differential equation (ODE) is an ODE where the dependent variable and 
+			its derivatives appear as linear terms.
+			The general form of a linear first-order ODE is:
+				\begin{equation}
+					\dfrac{dy}{dx} + P(x)y = Q(x)
+				\end{equation}
+			Where $y$ is the dependent variable, $\frac{dy}{dx}$ is its first derivate with respect to $x$, 
+			$P(x)$ and $Q(x)$ are known functions of $x$.
 		\end{frame}
     % References and bibliography
     \begin{frame}[t,allowframebreaks]{Bibliography}

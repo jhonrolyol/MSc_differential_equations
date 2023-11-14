@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2023.9.17)  14 NOV 2023 07:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2023.9.17)  14 NOV 2023 07:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -803,19 +803,19 @@ LaTeX Info: Redefining \textlatin on input line 4138.
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
-Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks47
-\es@quotdepth=\count341
-Package babel Info: Making " an active character on input line 570.
-Package babel Info: Making . an active character on input line 675.
-Package babel Info: Making < an active character on input line 722.
-Package babel Info: Making > an active character on input line 722.
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
 ))
-(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-sp
-anish.tex
-Package babel Info: Importing font and identification data for spanish
-(babel)             from babel-es.ini. Reported on input line 11.
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-en
+glish.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
 )
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\bea
 merthememetropolis.sty
@@ -823,8 +823,8 @@ Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
 
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks48
-\pgfopts@list@add@b@toks=\toks49
+\pgfopts@list@add@a@toks=\toks47
+\pgfopts@list@add@b@toks=\toks48
 )
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\bea
 merinnerthememetropolis.sty
@@ -832,15 +832,15 @@ Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
 
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count342
-\calc@Bcount=\count343
+\calc@Acount=\count341
+\calc@Bcount=\count342
 \calc@Adimen=\dimen295
 \calc@Bdimen=\dimen296
 \calc@Askip=\skip64
 \calc@Bskip=\skip65
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count344
+\calc@Ccount=\count343
 \calc@Cskip=\skip66
 )
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
@@ -875,8 +875,8 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 x)
 \pgffor@iter=\dimen299
 \pgffor@skip=\dimen300
-\pgffor@stack=\toks50
-\pgffor@toks=\toks51
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
 ))
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\t
 ikz.code.tex
@@ -885,7 +885,7 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrary
 plothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count345
+\pgf@plot@mark@count=\count344
 \pgfplotmarksize=\dimen301
 )
 \tikz@lastx=\dimen302
@@ -900,19 +900,19 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@figbox@bg=\box79
 \tikz@tempbox=\box80
 \tikz@tempbox@bg=\box81
-\tikztreelevel=\count346
-\tikznumberofchildren=\count347
-\tikznumberofcurrentchild=\count348
-\tikz@fig@count=\count349
+\tikztreelevel=\count345
+\tikznumberofchildren=\count346
+\tikznumberofcurrentchild=\count347
+\tikz@fig@count=\count348
 
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulemat
 rix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count350
-\pgfmatrixcurrentcolumn=\count351
-\pgf@matrix@numberofcolumns=\count352
+\pgfmatrixcurrentrow=\count349
+\pgfmatrixcurrentcolumn=\count350
+\pgf@matrix@numberofcolumns=\count351
 )
-\tikz@expandcount=\count353
+\tikz@expandcount=\count352
 
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/l
 ibraries\tikzlibrarytopaths.code.tex
@@ -950,10 +950,7 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
 aTeX to use the Fira fonts on input line 95.
 
-)) (lecture.aux
-LaTeX Info: Redefining \. on input line 22.
-LaTeX Info: Redefining \% on input line 22.
-)
+)) (lecture.aux)
 \openout1 = `lecture.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -1011,17 +1008,17 @@ LaTeX Font Info:    ... okay on input line 38.
 
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count354
+\scratchcounter=\count353
 \scratchdimen=\dimen310
 \scratchbox=\box82
-\nofMPsegments=\count355
-\nofMParguments=\count356
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count357
+\nofMPsegments=\count354
+\nofMParguments=\count355
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count356
 \MPscratchDim=\dimen311
-\MPnumerator=\count358
-\makeMPintoPDFobject=\count359
-\everyMPtoPDFconversion=\toks53
+\MPnumerator=\count357
+\makeMPintoPDFobject=\count358
+\everyMPtoPDFconversion=\toks52
 )
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
 .sty
@@ -1113,10 +1110,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theo
 rem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-LaTeX Info: Redefining \. on input line 38.
-LaTeX Info: Redefining \% on input line 38.
- (lecture.nav)
+) (lecture.nav)
 <img/logo_julia.png, id=21, 321.2pt x 207.77625pt>
 File: img/logo_julia.png Graphic file (type png)
 <use img/logo_julia.png>
@@ -1133,10 +1127,7 @@ Overfull \vbox (47.30656pt too high) detected at line 42
 [1
 
 {C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/logo_juli
-a.png>] (lecture.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-) [2
+a.png>] (lecture.toc) [2
 
 ]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
@@ -1203,10 +1194,7 @@ Overfull \vbox (52.99702pt too high) detected at line 73
 \tf@snm=\write8
 \openout8 = `lecture.snm'.
 
- (lecture.aux
-LaTeX Info: Redefining \. on input line 22.
-LaTeX Info: Redefining \% on input line 22.
-)
+ (lecture.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1214,10 +1202,10 @@ Package rerunfilecheck Info: File `lecture.out' has not changed.
 (rerunfilecheck)             Checksum: 21D5914F2A53878437C76B57983F8F1E;553.
  ) 
 Here is how much of TeX's memory you used:
- 27266 strings out of 475284
- 558098 string characters out of 2775521
- 940546 words of memory out of 3000000
- 48157 multiletter control sequences out of 15000+600000
+ 26873 strings out of 475284
+ 552936 string characters out of 2775521
+ 934687 words of memory out of 3000000
+ 47764 multiletter control sequences out of 15000+600000
  477503 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,13n,122p,1880b,755s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1226,7 +1214,7 @@ s10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmss12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmss8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmssbx10.pfb>
-Output written on lecture.pdf (10 pages, 81023 bytes).
+Output written on lecture.pdf (10 pages, 81048 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)

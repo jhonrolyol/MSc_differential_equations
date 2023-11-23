@@ -31,7 +31,8 @@ xlabel!("Time (t)")
 ylabel!("Solution y(t) and y'(t)")
 title!("Second-Order Linear ODE")
 
-
+ 
 # Save figure
 savefig("figures/SecondOrderLinearODE.pdf")
+savefig("figures/SecondOrderLinearODE.png")
 

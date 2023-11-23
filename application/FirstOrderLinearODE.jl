@@ -32,3 +32,4 @@ title!("First-Order Linear ODE")
 
 # Save figure
 savefig("figures/FirstOrderLinearODE.pdf")
+savefig("figures/FirstOrderLinearODE.png")

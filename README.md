@@ -54,7 +54,7 @@ savefig("figures/FirstOrderLinearODE.pdf")
 
 Below is the figure that results after solving the differential equation.
 
-![](https://github.com/jhonrolyol/MSc_differential_equations/blob/master/application/figures/FirstOrderLinearODE.pdf)
+![](https://github.com/jhonrolyol/MSc_differential_equations/blob/master/application/figures/FirstOrderLinearODE.png)
 
 
 ### Example 2: Second-Order Linear ODE
@@ -106,7 +106,7 @@ savefig("figures/SecondOrderLinearODE.pdf")
 
 Below is the figure that results after solving the differential equation.
 
-![](https://github.com/jhonrolyol/MSc_differential_equations/blob/master/application/figures/SecondOrderLinearODE.pdf)
+![](https://github.com/jhonrolyol/MSc_differential_equations/blob/master/application/figures/SecondOrderLinearODE.png)
 
 ## How to Contribute
 If you find errors or want to add more information, feel free

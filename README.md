@@ -51,7 +51,7 @@ title!("First-Order Linear ODE")
 savefig("figures/FirstOrderLinearODE.pdf")
 
 ```
-
+  
 Below is the figure that results after solving the differential equation.
 
 ![](https://github.com/jhonrolyol/MSc_differential_equations/blob/master/application/figures/FirstOrderLinearODE.png)
